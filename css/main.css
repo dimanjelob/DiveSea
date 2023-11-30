@@ -1,0 +1,86 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.nav-link{
+  font-size: 17px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+}
+#butt{
+  border-radius: 12px;
+}
+.line{
+  width: 195px;
+  height: 1px;
+}
+.name{
+  color: #141416;
+  font-family: Poppins;
+  font-size: 75px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%; /* 90px */
+  letter-spacing: -3px;
+  text-transform: capitalize;
+}
+.secname{
+  color: #676767;
+  text-align: justify;
+
+  /* Inter/Regular/18 */
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 155.556% */
+}
+.dollars{
+  color: #141416;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px;
+}
+#buttt{
+  border-radius: 12px;
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 16.271px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.163px;
+  text-transform: uppercase;
+}
+#bt{
+  color: #000;
+  font-family: Poppins;
+  font-size: 16.271px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.163px;
+  text-transform: uppercase;
+}
+.num{
+  color: #141416;
+  font-family: Inter;
+  font-size: 36.771px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 45.964px; /* 125% */
+}
+.whtnum{
+  color: #848586;
+  font-family: Inter;
+  font-size: 12.257px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18.386px; /* 150% */
+}
+@media(max-width:768px){
+  #main-text{
+    text-align: center;
+  }
+}
